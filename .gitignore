@@ -1,0 +1,10 @@
+draft.py
+**/.idea/
+**/__pycache__/
+/data/
+**/logs/
+logs
+/logging/
+*.pt
+*.pth
+convert_mp4_2_gif.py
